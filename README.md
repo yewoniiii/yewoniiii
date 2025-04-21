@@ -11,9 +11,9 @@
 
 ## 📝 About Me
 ### 🎓 Education
-- **삼성SDS SCSA(Samsung Covergence SW Academy) 24기**  
-- **삼성청년SW아카데미 (SSAFY) 12기** | Java 과정  
-- **성균관대학교** | **수학교육과, 컴퓨터교육과** 졸업  
+- **삼성전자DX SCSA(Samsung Covergence SW Academy) 24기**  
+- **LG유플러스** **유레카SW교육과정** | 프론트엔드 과정
+- **동국대학교** | **생명과학과, 데이터사이언스소프트웨어** 졸업  
 - **성균관대학교 인공지능교육** 마이크로디그리 이수
 - **LG Aimers 4기**  
 
