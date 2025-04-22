@@ -13,28 +13,24 @@
 ### 🎓 Education
 - **삼성전자DX SCSA(Samsung Covergence SW Academy) 24기**  
 - **LG유플러스** **유레카SW교육과정** | 프론트엔드 과정
-- **동국대학교** | **생명과학과, 데이터사이언스소프트웨어** 졸업  
-- **성균관대학교 인공지능교육** 마이크로디그리 이수
-- **LG Aimers 4기**  
+- **동국대학교** | **생명과학과, 데이터사이언스소프트웨어** 졸업
+- **김포외국어고등학교** 졸업  
 
 ### 💼 Experience
-- **前 성균관대학교 사범대학 부학생회장**  
-- **前 성균관대학교 수학교육과 부학생회장**  
-- 前 공군 교육사령부 항공과학고등학교 교무과 행정병
+- **동국대학교 바이오시스템대학 학생회장 (2023)**
+- **동국대학교 생명과학과 발생학 연구실 학부 연구생(2023)**  
+- **동국대학교 바이오시스템대학 학생회 기획국장(2022)**  
+- **동국대학교 생명과학과 부학생회장(2021)**
+- **경기도 청년 봉사단 6기(2024)**  
 
 ### 📜 Certifications
-- **중등정교사자격증 2급(정보•컴퓨터, 수학)**
-- **정보처리기사**
-- **SQLD**
 - **ADSP**
-- 빅데이터분석기사(필기)
-- 컴퓨터활용능력 1급
-- AI-900: Microsoft Azure AI Fundamentals
-- Microsoft Office Specialist 2016 Master
+- **OPIc** **IH**
 
-### 🎵 Hobbies & Interests
-- 🏃 러닝 | 🏋️‍♂️ 헬스 | 🧗 클라이밍 | 🌄 등산  
-- 🎧 음악 감상  
+### 🏆 Acheivements
+- **동국대학교 총장 공로상(2024)**
+- **고양시장 모범학생 졸업 표창(2024)**
+- **동국대학교 SW교육원 ICIP & 캡스톤디자인 결과발표회 장려상**
 
 </td>
 <td width="50%" valign="top">
@@ -45,14 +41,18 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
@@ -64,16 +64,9 @@
 
 
 ### 📚 Recent Projects
-- 🗓️ **[CALOG](https://github.com/calog-sport-schedule-tracker/ReadMe)** – **운동 대회 일정 안내 및 기록 서비스**
- 
-
-
-
-### 📫 Let's Connect!
-<p align="left">
-  <a href="mailto:yaewon46438@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  </a>
-</p>
+- 🐕 **[댕댕플레이스](https://github.com/DaengPlace/FrontEnd)** - **반려동물 동반 가능 시설 공유 플랫폼 개발**
+- 🐶 **[뭉치](https://github.com/URECA-TEAM3/moongchee-client)** – **반려동물 종합 케어 플랫폼(펫시팅, 쇼핑몰) 개발**
+- 💊 **[딥러닝 프로젝트](https://github.com/CSID-DGU/2023-2-DSC4007-8-MiSaeng)** - **기존 약물의 기타 질병 치료로의 활용 가능성 확장(약물 재창출)**
 
 </td>
 </tr>
